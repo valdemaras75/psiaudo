@@ -1,0 +1,104 @@
+.gog{ 
+   font-size: 20px;
+   color: rgb(17, 231, 17);
+}
+
+.gog:hover{
+   color: rgb(238, 14, 14);
+   font-size: 30px;
+}
+
+.eks{
+   background: blue;
+   font-family: Arial, Helvetica, sans-serif;
+   color: brown;
+   font-size: 23px;
+   text-decoration: solid;
+}
+
+.eks:visited{
+   color: rgb(238, 14, 14);
+   font-size: small;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.eks:hover{
+   background: black;
+   color: blueviolet;
+   font-size: 23px;
+}
+
+.buk{
+   font-size: 35px;
+   text-decoration: none;
+   color: rgb(48, 35, 20);
+}
+
+.buk :visited{
+   color: white;
+   font-size: 30px;
+}
+
+.buk:hover{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: aquamarine;
+   font-size: larger;
+}
+
+.musu{
+   text-transform: capitalize;
+   color: black;
+   font-size: 20px;
+}
+
+.musu:visited{
+   color: rgb(228, 70, 70);
+   font-size: 15px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.musu:hover{
+   border: solid 5px;
+   background-color: aqua;
+   border-radius: 10%;
+}
+
+.testas{
+   background: #470006;
+   color: beige;
+   font-size: 25px;
+}
+
+.testas:first-letter{
+   color: yellowgreen;
+   font-size: 40px;
+   text-decoration: underline;
+}
+
+.testas2{
+   background: blueviolet;
+   font-weight: bold;
+   font-size: 20px;
+   text-decoration: line-through;
+   text-transform: uppercase;
+}
+
+.testas3{
+   background: gold;
+   font-size: 25px;
+   text-transform: uppercase;
+}
+
+.testas3:before{
+   background: #470006;
+   color: white;
+   content: "ZIURIM AR GAVOSI!!!";
+}
+
+.testas3:after{
+   background: #470006;
+   color: rgb(224, 218, 184);
+   content: "VALIO GAVOSI!!!";
+}
+
+
